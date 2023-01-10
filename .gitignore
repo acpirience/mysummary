@@ -203,6 +203,11 @@ dmypy.json
 # Cython debug symbols
 cython_debug/
 
+#data
+/data/summary.txt
+/config.cfg
+
 #build files
 /clean.cmd
+/coverage.cmd
 /pylint.rc
