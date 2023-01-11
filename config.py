@@ -7,6 +7,7 @@ import os
 from loguru import logger
 
 DEFAULT_PREFS = {
+    "DATA_SOURCE_TYPE": "TXT",
     "DATA_SOURCE": "/data/summary.txt",
 }
 
